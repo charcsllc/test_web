@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://charcs.net/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://charcs.net/"./>
+    <xhtml:link rel="alternate" hreflang="en" href="https://charcs.net/en/"./>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://charcs.net/"./>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://charcs.net/img/charcs.png</image:loc>
+      <image:title>CharcS - Automatización Inteligente</image:title>
+      <image:caption>Logo de CharcS - Líder en automatización empresarial</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://charcs.net/about</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://charcs.net/about"./>
+    <xhtml:link rel="alternate" hreflang="en" href="https://charcs.net/en/about"./>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://charcs.net/img/team-meeting.jpg</image:loc>
+      <image:title>Equipo CharcS</image:title>
+      <image:caption>Nuestro equipo de expertos en tecnología</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Services Page -->
+  <url>
+    <loc>https://charcs.net/services</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://charcs.net/services"./>
+    <xhtml:link rel="alternate" hreflang="en" href="https://charcs.net/en/services"./>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://charcs.net/img/work.jpg</image:loc>
+      <image:title>Servicios de CharcS</image:title>
+      <image:caption>Soluciones de automatización y desarrollo de software</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://charcs.net/contact</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://charcs.net/contact"./>
+    <xhtml:link rel="alternate" hreflang="en" href="https://charcs.net/en/contact"./>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Service-specific pages for better SEO -->
+  <url>
+    <loc>https://charcs.net/services/automatizacion-rpa</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://charcs.net/services/chatbots-ia</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://charcs.net/services/consultoria-digital</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://charcs.net/services/big-data-analytics</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset> 

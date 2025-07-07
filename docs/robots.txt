@@ -1,0 +1,43 @@
+# CharcS Robots.txt
+# https://charcs.net
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /src/
+
+# Specific bot rules
+User-agent: Googlebot
+Crawl-delay: 0
+Allow: /
+
+User-agent: Bingbot
+Crawl-delay: 1
+Allow: /
+
+User-agent: Slurp
+Crawl-delay: 1
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+# Sitemaps
+Sitemap: https://charcs.net/sitemap.xml
+Sitemap: https://charcs.net/sitemap-images.xml
+
+# Host
+Host: https://charcs.net 
